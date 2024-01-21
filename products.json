@@ -1,0 +1,32 @@
+[
+  {
+    "price": 1234,
+    "stock": 1234,
+    "title": "motorlimp",
+    "description": "asdas",
+    "code": "1234",
+    "thumbnails": "1234",
+    "pid": 1,
+    "status": true
+  },
+  {
+    "price": 1234,
+    "stock": 1234,
+    "title": "motorlimp2",
+    "description": "asdas",
+    "code": "1234",
+    "thumbnails": "1234",
+    "pid": 2,
+    "status": true
+  },
+  {
+    "price": 5000,
+    "stock": 50,
+    "title": "revividor",
+    "description": "revive",
+    "code": "33",
+    "thumbnails": "no tiene",
+    "pid": 3,
+    "status": true
+  }
+]
